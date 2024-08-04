@@ -2,5 +2,6 @@
   "name": "Git Goods Emoji",
   "description": "Git Goods Emoji",
   "manifest_version": 3,
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "action": { "default_popup": "index.html" }
 }
